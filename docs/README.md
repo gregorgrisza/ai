@@ -95,7 +95,7 @@
 ## Articles
 
 - Role of Generative AI in Realm of Software Testing and Quality Assurance - https://www.ishir.com/blog/107077/generative-ai-in-software-testing-and-quality-assurance-domain.htm
-
+- 10 AI Tools Every Software Developer Should Be Using in 2023 & Beyond: https://www.ishir.com/blog/90145/10-ai-tools-every-software-developer-should-be-using-in-2023-beyond.htm
 ## To check
 
 - Image to text models - https://huggingface.co/models?pipeline_tag=image-to-text&sort=downloads
