@@ -35,6 +35,10 @@
 - MetaGPT - https://github.com/geekan/MetaGPT
 - Semantic Kernel docs - https://learn.microsoft.com/en-us/semantic-kernel/overview/
 - Semantic Kernel - https://github.com/microsoft/semantic-kernel/tree/main
+- MemGPT, extending history context in talking to LLMs - https://youtu.be/nQmZmFERmrg 
+- AI Agentic Patterns with Autogen - Free Course - https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/?utm_campaign=autogen-launch&utm_medium=video&utm_source=youtube&utm_content=teaser
+- Chainlit: Building conversational AI (github) - https://github.com/Chainlit/chainlit
+- Chainlit - https://docs.chainlit.io/get-started/overview
 
 ## Tools
 
@@ -88,7 +92,11 @@
 - Building custom agent in LLamaIndex - https://docs.llamaindex.ai/en/latest/examples/agent/custom_agent/
 - Semantic Kernel demos - https://github.com/qmatteoq/SemanticKernel-Demos
 
-### To check
+## Articles
+
+- Role of Generative AI in Realm of Software Testing and Quality Assurance - https://www.ishir.com/blog/107077/generative-ai-in-software-testing-and-quality-assurance-domain.htm
+
+## To check
 
 - Image to text models - https://huggingface.co/models?pipeline_tag=image-to-text&sort=downloads
 - Image to text mode with example - https://huggingface.co/nlpconnect/vit-gpt2-image-captioning
