@@ -28,7 +28,6 @@
 - Top 100 OSS - https://www.benchcouncil.org/evaluation/opencs/annual.html
 - Intuitive introduction to Embeddings - https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/
 
-
 ## Frameworks
 
 - Autogen - https://github.com/microsoft/autogen
@@ -39,6 +38,7 @@
 - AI Agentic Patterns with Autogen - Free Course - https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/?utm_campaign=autogen-launch&utm_medium=video&utm_source=youtube&utm_content=teaser
 - Chainlit: Building conversational AI (github) - https://github.com/Chainlit/chainlit
 - Chainlit - https://docs.chainlit.io/get-started/overview
+- Mistral AI Developer platform - https://console.mistral.ai/
 
 ## Tools
 
@@ -49,6 +49,12 @@
 - PettingZo: Python library for conducting research in multi-agent reinforcement learning - https://github.com/Farama-Foundation/PettingZoo
 - Gymnasium: library for developing and comparing reinforcement learning algorithms  https://github.com/Farama-Foundation/Gymnasium
 - LLaVA - https://www.microsoft.com/en-us/research/project/llava-large-language-and-vision-assistant/
+- Weights & Biases - https://wandb.ai/site 
+- Microsoft UFO - https://www.microsoft.com/en-us/research/publication/ufo-a-ui-focused-agent-for-windows-os-interaction/
+- Mistral-finetuning - https://github.com/mistralai/mistral-finetune
+- Axolotl finetuning - https://github.com/axolotl-ai-cloud/axolotl
+- AnythingLLM for running LLMs - https://anythingllm.com/
+- LM Studio for running LLMs - https://lmstudio.ai/
 
 
 ## Transformers
@@ -92,10 +98,17 @@
 - Building custom agent in LLamaIndex - https://docs.llamaindex.ai/en/latest/examples/agent/custom_agent/
 - Semantic Kernel demos - https://github.com/qmatteoq/SemanticKernel-Demos
 
+## Fine-tuning
+- Mistral-finetune in use example - https://www.youtube.com/watch?v=fzT9BbHu3ec
+  
+  _Use of mistral-finetune, mistral-inference, how to format data_
+- Fine-tune Mistral 7B using together.ai - https://youtu.be/Wqf2GimAlWo
+
 ## Articles
 
 - Role of Generative AI in Realm of Software Testing and Quality Assurance - https://www.ishir.com/blog/107077/generative-ai-in-software-testing-and-quality-assurance-domain.htm
 - 10 AI Tools Every Software Developer Should Be Using in 2023 & Beyond: https://www.ishir.com/blog/90145/10-ai-tools-every-software-developer-should-be-using-in-2023-beyond.htm
+
 ## To check
 
 - Image to text models - https://huggingface.co/models?pipeline_tag=image-to-text&sort=downloads
