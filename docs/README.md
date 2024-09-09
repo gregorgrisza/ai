@@ -55,9 +55,13 @@
 - Axolotl finetuning - https://github.com/axolotl-ai-cloud/axolotl
 - AnythingLLM for running LLMs - https://anythingllm.com/
 - LM Studio for running LLMs - https://lmstudio.ai/
-
+- UFO - Windows OS manage - https://github.com/microsoft/UFO
+- Web crawler for data collection - https://github.com/unclecode/crawl4ai
+- LLMs benchmarking - https://super.gluebenchmark.com/
+- Compute framework - https://www.ray.io/
 
 ## Transformers
+
 - How Transformers and Large Language Models (LLMs) Work — A Comprehensive Guide Using BERT, GPT, and T5 - https://blog.gopenai.com/how-transformers-and-large-language-models-llms-work-3f20bb41c1ff
 - Transformers Explained Visually (Part 1): Overview of Functionality -  https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452
 - Transformers Explained Visually (Part 2): How it works, step-by-step - https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34
