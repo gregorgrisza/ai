@@ -59,6 +59,8 @@
 - Web crawler for data collection - https://github.com/unclecode/crawl4ai
 - LLMs benchmarking - https://super.gluebenchmark.com/
 - Compute framework - https://www.ray.io/
+- Semantic router - https://www.aurelio.ai/semantic-router
+- Semantic router (source) - https://github.com/aurelio-labs/semantic-router
 
 ## Transformers
 
