@@ -61,6 +61,7 @@
 - Compute framework - https://www.ray.io/
 - Semantic router - https://www.aurelio.ai/semantic-router
 - Semantic router (source) - https://github.com/aurelio-labs/semantic-router
+- LangFlow, fast prototyping - https://github.com/langflow-ai/langflow
 
 ## Transformers
 
