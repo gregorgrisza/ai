@@ -18,7 +18,7 @@
 - LLM from scratch - https://youtu.be/UU1WVnMk4E8?list=PLg9s9Jz3UGc0pD9wljWELchTODHHSQxks
 - Elevate Your AI to New Heights with LLM-Powered Multi-Agent Frameworks! - https://medium.com/illuminations-mirror/elevate-your-ai-to-new-heights-with-llm-powered-multi-agent-frameworks-2efc0d2e94a5
 - GenAI : Witness Automated Test Cases Generation in Action, let’s build - https://medium.com/@learn-simplified/genai-witness-automated-test-cases-generation-in-action-lets-build-ebc7f5ce0afb
-- GenAI on AWS - - Amazon Q - https://aws.amazon.com/q/
+- GenAI on AWS Amazon Q - https://aws.amazon.com/q/
 - Agents in LangChain - https://lancerninja.com/agents-in-langchain/
 - Agents in Semantic Kernel - https://learn.microsoft.com/en-us/semantic-kernel/concepts/agents?pivots=programming-language-python
 - Build LLM from scratch for beginners - https://www.analyticsvidhya.com/blog/2023/07/beginners-guide-to-build-large-language-models-from-scratch/
@@ -27,6 +27,7 @@
 - Multimodal AI - https://www.datacamp.com/blog/what-is-multimodal-ai?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=152984010854&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=684592139678&utm_targetid=dsa-2222697810678&utm_loc_interest_ms=&utm_loc_physical_ms=9043207&utm_content=DSA~blog~Artificial-Intelligence&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-june24&gad_source=1&gclid=CjwKCAjwkJm0BhBxEiwAwT1AXAaEDujS3NilLy5Ws_2k8Sn1JUFjradzVgYBAc3Gkb_Ehx5efQMxXhoC_9sQAvD_BwE
 - Top 100 OSS - https://www.benchcouncil.org/evaluation/opencs/annual.html
 - Intuitive introduction to Embeddings - https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/
+- Guide to llama.cpp - https://pyimagesearch.com/2024/08/26/llama-cpp-the-ultimate-guide-to-efficient-llm-inference-and-applications/
 
 ## Frameworks
 
@@ -39,6 +40,10 @@
 - Chainlit: Building conversational AI (github) - https://github.com/Chainlit/chainlit
 - Chainlit - https://docs.chainlit.io/get-started/overview
 - Mistral AI Developer platform - https://console.mistral.ai/
+- llama.cpp with C++ API - https://mutable.ai/ggerganov/llama.cpp
+- llama.cpp (github) - https://github.com/ggerganov/llama.cpp
+- gemma.cpp - https://ai.google.dev/gemma/docs/gemma_cpp
+- llama2 - https://github.com/karpathy/llama2.c
 
 ## Tools
 
