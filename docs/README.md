@@ -4,7 +4,7 @@
 
 - Linear algebra - https://colab.research.google.com/github/ageron/handson-ml2/blob/master/math_linear_algebra.ipynb#scrollTo=tpUbZM665T0D
 - Attention is all you need - https://arxiv.org/abs/1706.03762
-- OpenAI platform - https://platform.openai.com
+- Prompt engineering - https://arxiv.org/pdf/2406.06608
 - Prompting - https://sdk.vercel.ai/prompt
 - Prompting - https://www.promptingguide.ai/
 - Embeddings - https://pub.aimind.so/llm-embeddings-explained-simply-f7536d3d0e4b
@@ -28,9 +28,12 @@
 - Top 100 OSS - https://www.benchcouncil.org/evaluation/opencs/annual.html
 - Intuitive introduction to Embeddings - https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/
 - Guide to llama.cpp - https://pyimagesearch.com/2024/08/26/llama-cpp-the-ultimate-guide-to-efficient-llm-inference-and-applications/
+- llama.cpp: Conversion, Quantization, & Merging - https://rentry.org/llama-cpp-conversions#converting-loras-to-gguf
+- llama.cpp: Finetune LoRA on CPU using - https://rentry.org/cpu-lora
 
 ## Frameworks
 
+- OpenAI platform - https://platform.openai.com
 - Autogen - https://github.com/microsoft/autogen
 - MetaGPT - https://github.com/geekan/MetaGPT
 - Semantic Kernel docs - https://learn.microsoft.com/en-us/semantic-kernel/overview/
@@ -67,6 +70,7 @@
 - Semantic router - https://www.aurelio.ai/semantic-router
 - Semantic router (source) - https://github.com/aurelio-labs/semantic-router
 - LangFlow, fast prototyping - https://github.com/langflow-ai/langflow
+- Loading PDF data for RAG, LLM - https://pymupdf.readthedocs.io/en/latest/rag.html
 
 ## Transformers
 
@@ -92,6 +96,23 @@
 
 - LLaVa - https://llava-vl.github.io/
 
+## RAG
+
+- RAG in TorchServe - https://pytorch.org/serve/enhancing_llm_serving_compile_rag.html
+- Vector DBs comparison - https://superlinked.com/vector-db-comparison
+- Step-back paper - https://arxiv.org/pdf/2310.06117
+- RAPTOR - https://arxiv.org/abs/2401.18059
+- RAG-Fusion - https://github.com/Raudaschl/rag-fusion
+- RAG introduction by LangChain - https://python.langchain.com/v0.2/docs/tutorials/rag/
+- Query construction by LangChain - https://blog.langchain.dev/query-construction/
+- Query analysis by LangChain - https://python.langchain.com/docs/tutorials/query_analysis/
+- Evaluation - let's not forget about testing! - https://hamel.dev/blog/posts/evals/
+- Corrective-RAG paper - https://arxiv.org/abs/2401.15884
+- ColBERT paper - https://arxiv.org/abs/2004.12832
+- ColBERT - github - https://github.com/stanford-futuredata/ColBERT
+- Chunking tool - https://chunkviz.up.railway.app/ 
+- Adaptive RAG paper - https://arxiv.org/abs/2403.14403
+
 ## Creation AI powered apps
 
 - Multi-agent systems - https://tech.bertelsmann.com/en/blog/articles/harnessing-the-power-of-multi-agent-systems-for-generative-ai-part-1
@@ -109,6 +130,7 @@
 - How to create custom tool in LangChain - https://lancerninja.com/custom-tools-langchain/
 - Building custom agent in LLamaIndex - https://docs.llamaindex.ai/en/latest/examples/agent/custom_agent/
 - Semantic Kernel demos - https://github.com/qmatteoq/SemanticKernel-Demos
+- ChatBot from scratch in TensorFlow - https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html
 
 ## Fine-tuning
 - Mistral-finetune in use example - https://www.youtube.com/watch?v=fzT9BbHu3ec

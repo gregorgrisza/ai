@@ -1,0 +1,52 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python:scrapy",
+            "type": "debugpy",
+            "python": "${command:python.interpreterPath}",
+            "request": "launch",
+            "module": "scrapy",
+            "cwd": "${workspaceFolder}/ws/ws/spiders",
+            "args": [
+                "crawl",
+                "car-pdfs",
+            ]
+        },
+        {
+            "name": "Python:torchtune",
+            "type": "debugpy",
+            "request": "launch",
+            "python": "/Users/grzegorz.michalak/miniconda3/bin/python",
+            "module": "torch.distributed.launch",
+            "cwd": "${workspaceFolder}/models/meta-llama_Llama-3.2-1B-Instruct",
+            "env": {
+                "RANK" : "0"
+            },
+            "args": [
+                "--use-env",
+                "--nproc_per_node=1",
+                "full_finetune_single_device.py",
+                "--config",
+                "llama3_2_1B_full_single_device.yaml",
+            ]
+        },
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "python": "/Users/grzegorz.michalak/miniconda3/bin/python",
+            "request": "launch",
+            "program": "${file}",
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal",
+            "env": {
+                "HF_TOKEN": "${env:HF_TOKEN}"
+            },
+            "args": [
+            ]
+        },
+    ]
+}
