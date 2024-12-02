@@ -3,11 +3,18 @@ project(inference)
 
 list(APPEND CMAKE_PREFIX_PATH "/Users/grzegorz.michalak/miniconda3/lib/python3.12/site-packages/torch/share/cmake")
 
+include_directories("/Users/grzegorz.michalak/repos/sentencepiece/src")
+# target_include_directories(sentencepiece PUBLIC "/Users/grzegorz.michalak/repos/sentencepiece/src")
+
 find_package(Torch REQUIRED)
+
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${TORCH_CXX_FLAGS}")
 
 add_executable(inference inference.cpp)
+message(STATUS "TORCH_LIBRARIES: ${TORCH_LIBRARIES}")
 target_link_libraries(inference "${TORCH_LIBRARIES}")
+target_link_libraries(inference "/usr/local/lib/libsentencepiece.dylib")
+
 set_property(TARGET inference PROPERTY CXX_STANDARD 17)
 
 # The following code block is suggested to be used on Windows.
