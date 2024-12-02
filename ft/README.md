@@ -18,11 +18,9 @@
 
 Note: you must accept license agreement on HuggingFace if the model is gated. Search for desired model on HF (HuggingFace) and request access by submitting acceptance.
 
-## Fine-tuning
+## Torchtune
 
-### Using Torchtune
-
-#### Configuration
+### Configuration
 
 Ref.: https://pytorch.org/torchtune/stable/deep_dives/configs.html#config-tutorial-label
 
@@ -35,6 +33,6 @@ Copy configuration for later modification `tune cp llama3_2/1B_full_single_devic
 
 Validate config: `tune validate llama3_2_1B_full_single_device.yaml`
 
-#### Run fine-tuning
+### Run fine-tuning
 
 Run locally modified configuration and recipe to start fine-tuning: `tune run <full_finetune_single_device.py> --config <llama3_2_1B_full_single_device.yaml>`
